@@ -1,2 +1,3 @@
-# posts_categories_block-extension
+# Post Categories Block Extension
+
 A block that displays categories from the Posts module.
