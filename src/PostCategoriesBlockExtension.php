@@ -19,6 +19,6 @@ class PostCategoriesBlockExtension extends Extension
      *
      * @var string
      */
-    protected $provides = 'anomaly.module.blocks::block.demo';
+    protected $provides = 'anomaly.module.blocks::block.post_categories';
 
 }
